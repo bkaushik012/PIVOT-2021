@@ -1,4 +1,4 @@
-# Tech Integration for Tourism Industry Enhancement - Readme
+# Tech Integration for Tourism Industry Enhancement 
 
 ## Executive Summary
 
